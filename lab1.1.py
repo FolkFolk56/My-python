@@ -44,9 +44,3 @@ print("answer \n"+ str(z) +"ครับบ")
 
 
 
-
-
-
-
-
-
