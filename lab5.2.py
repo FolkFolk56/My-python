@@ -9,7 +9,7 @@ def prod(n):
 
 def tax (total):
     vat = (7/100)*total
-    return vat
+    return
 
 
 
